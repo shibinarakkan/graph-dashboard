@@ -56,6 +56,7 @@ class Dashboard extends Component {
               <hr />
               <li><a href="#">signin</a></li>
               <li><a href="#">register</a></li>
+              <li><a href="#">blaah</a></li>
             </ul>
           </div>
 
